@@ -187,7 +187,38 @@ The location is my house and the Billerica Memorial High School. The materials u
 High Concentration → Anionic → Low Concentration →  Cationic → High Concentration 
 24. Stack 12 of these stacks on top of one another. 
 25. Place graphite electrodes flat against the outer faces of the stack.
-26. Connect wires of a multimeter to electrodes outside the gel, with the positive wire touching the top electrode, nearest to the first anionic gel, and the negative wire touching the bottom electrode, nearest to the last cationic gel. 
+26. Connect wires of a multimeter to electrodes outside the gel, with the positive wire touching the top electrode, nearest to the first anionic gel, and the negative wire touching the bottom electrode, nearest to the last cationic gel.
+
+<!-- FAQ -->
+## :grey_question: Goals 
+
+	In terms of milestones, the main milestones of my project will occur when the different types of hydrogels are successfully able to be formed and polymerized, when the hydrogel stacks are successfully able to generate volts of electricity, and when the hydrogel stacks are successfully able to generate 2 to 3 volts of electricity, and power an implantable medical device. The completion criteria for my project is defined as follows: the project must be able to generate its own electricity using the created ion gradient, must not rely on any external power sources for electricity, must be able to generate 3 volts of electricity as a maximum, and the final product must be biocompatible. I will test my project by measuring the voltage output using a multimeter, and I’ll evaluate my project based on the voltage output generated. In terms of performance specifications, bottom line, the battery must be able to output a consistent voltage without interruption of at least 2 to 3 volts. 
+
+<!-- FAQ -->
+## :grey_question: Risks  
+
+	One of the main risks posed in this project is the usage and testing with electricity. However, the project does not exceed 120 volts and at most will generate 5 volts. Because of this, there’s no risk of arc flash events or internal component failure due to excessive voltage. Additionally, the power supply created also will not be serving more than one experiment at a time, reducing the risk of hazards created by switching between experiments. However, there’s still the risk of shock hazards, but none that can lead to serious physical harm. In order to minimize these risks, all experimentations related to electricity will be conducted in a lab environment, at school, that is supervised by adults. Additionally, proper personal protective equipment (PPE) will be worn at all times, including voltage-rated gloves and goggles. The Electrically Safe Work Condition (ESWC), according to the university of Virginia, will be applied as well as needed, ensuring that the battery never has any components that are removed in a hazardous way that could create a dangerous interruption in current. 
+
+	<!-- FAQ -->
+## :grey_question: Results and Discussion (So Far)   
+
+**Project Performance** 
+		All the criteria set was successfully met and achieved in my project. With a single hydrogel stack, a stack was able to generate anywhere from 0.25 V to 0.31 V. In the calculated total voltage, given there’s no resistance, the total battery, with 12 stacks connected in series, should generate an output from 3 V to 3.72 V, which exceeds the criteria set. However, the resistance from the hydrogels themselves must be taken into account as well. 
+
+**Challenges and Future Improvements** 
+Despite its success, there’s some challenges I’d like to solve: 
+- The gels need to be made sturdier, most likely via increasing the alginate concentration, as the alginate is what mostly gives the gels their structure. However, it also needs to be kept in mind to not add too much alginate to the point where the NaCl ion movements are inhibited.
+- Thinner graphite electrodes are needed in order to ensure that the battery can be used for long periods of time without the gel stacks being crushed. The current electrodes being used work, but overtime might impede on the battery’s function.
+
+There are also a few future improvements I’d like to work on as well: 
+- The stacks need to be tested in various numbers in series in order to find the maximum voltage output.
+- The battery needs to be tested with an implantable medical device. 
+- The battery needs to be tested for long periods of time to ensure continuous voltage output.
+
+	<!-- FAQ -->
+## :grey_question: Conclusion 
+
+		These results demonstrate the viability of deploying a battery that’s able to generate and output its own voltage without the need for an external electricity source, showing how it can be used to help solve the issues of replacing and recharging the batteries in implantable medical devices. In conclusion, by addressing common faults in current solutions, such as the need for surgeries and leaving patients vulnerable for long times through recharging periods, this solution has the potential to prevent future side effects, enhance patient health, and introduce a biocompatible solution for this issue. 
 
 
 
