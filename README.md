@@ -48,7 +48,11 @@ All the resources I used for this project can be found in the following Google D
   - [Current Work](#-Current-Work) 
   - [Solution](#-Solution)
 - [Methods ](#-Methodst) 
-  - [Protocol](#-Protocol) 
+  - [Protocol](#-Protocol)
+  - [Goals](#-Goals)
+  - [Risks](#-Risks)
+- [Results and Discussion (So far)](#-Results-and-Discussion-(So-far))
+- [Conclusion](#-Conclusion)
 - [Contact](#-contact)
 - [Acknowledgements](#-acknowledgements-) 
 
@@ -135,7 +139,7 @@ High Concentration → Anionic → Low Concentration →  Cationic → High Conc
 <!-- FAQ -->
 ## :grey_question: Goals 
 
-	[In terms of milestones, the main milestones of my project will occur when the different types of hydrogels are successfully able to be formed and polymerized, when the hydrogel stacks are successfully able to generate volts of electricity, and when the hydrogel stacks are successfully able to generate 2 to 3 volts of electricity, and power an implantable medical device. The completion criteria for my project is defined as follows: the project must be able to generate its own electricity using the created ion gradient, must not rely on any external power sources for electricity, must be able to generate 3 volts of electricity as a maximum, and the final product must be biocompatible. I will test my project by measuring the voltage output using a multimeter, and I’ll evaluate my project based on the voltage output generated. In terms of performance specifications, bottom line, the battery must be able to output a consistent voltage without interruption of at least 2 to 3 volts.] 
+	In terms of milestones, the main milestones of my project will occur when the different types of hydrogels are successfully able to be formed and polymerized, when the hydrogel stacks are successfully able to generate volts of electricity, and when the hydrogel stacks are successfully able to generate 2 to 3 volts of electricity, and power an implantable medical device. The completion criteria for my project is defined as follows: the project must be able to generate its own electricity using the created ion gradient, must not rely on any external power sources for electricity, must be able to generate 3 volts of electricity as a maximum, and the final product must be biocompatible. I will test my project by measuring the voltage output using a multimeter, and I’ll evaluate my project based on the voltage output generated. In terms of performance specifications, bottom line, the battery must be able to output a consistent voltage without interruption of at least 2 to 3 volts. 
 
 <!-- FAQ -->
 ## :grey_question: Risks  
