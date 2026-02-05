@@ -142,7 +142,7 @@ High Concentration → Anionic → Low Concentration →  Cationic → High Conc
 
 	One of the main risks posed in this project is the usage and testing with electricity. However, the project does not exceed 120 volts and at most will generate 5 volts. Because of this, there’s no risk of arc flash events or internal component failure due to excessive voltage. Additionally, the power supply created also will not be serving more than one experiment at a time, reducing the risk of hazards created by switching between experiments. However, there’s still the risk of shock hazards, but none that can lead to serious physical harm. In order to minimize these risks, all experimentations related to electricity will be conducted in a lab environment, at school, that is supervised by adults. Additionally, proper personal protective equipment (PPE) will be worn at all times, including voltage-rated gloves and goggles. The Electrically Safe Work Condition (ESWC), according to the university of Virginia, will be applied as well as needed, ensuring that the battery never has any components that are removed in a hazardous way that could create a dangerous interruption in current. 
 
-	<!-- FAQ -->
+<!-- FAQ -->
 ## :grey_question: Results and Discussion (So Far)   
 
 **Project Performance** 
@@ -158,16 +158,17 @@ There are also a few future improvements I’d like to work on as well:
 - The battery needs to be tested with an implantable medical device. 
 - The battery needs to be tested for long periods of time to ensure continuous voltage output.
 
-	<!-- FAQ -->
+<!-- FAQ -->
 ## :grey_question: Conclusion 
 
 		These results demonstrate the viability of deploying a battery that’s able to generate and output its own voltage without the need for an external electricity source, showing how it can be used to help solve the issues of replacing and recharging the batteries in implantable medical devices. In conclusion, by addressing common faults in current solutions, such as the need for surgeries and leaving patients vulnerable for long times through recharging periods, this solution has the potential to prevent future side effects, enhance patient health, and introduce a biocompatible solution for this issue. 
 
 
-	<!-- FAQ -->
+<!-- FAQ -->
 ## :grey_question: References  
 
-**References**
+**References** 
+
 Battery Components | Batteries | CAPLINQ. (2023). Caplinq. 
 https://www.caplinq.com/renewable-energy/batteries/battery-components/ 
 
