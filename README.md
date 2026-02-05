@@ -23,12 +23,12 @@ All the resources I used for this project can be found in the following Google D
 **This project is not currently licensed for use or redistribution. All rights reserved.**
 
 
-[![Contributors](https://img.shields.io/github/contributors/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Dispenser/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Dispenser)
-[![Forks](https://img.shields.io/github/forks/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Dispenser/network/members)
-[![Stars](https://img.shields.io/github/stars/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Dispenser/stargazers)
-[![Issues](https://img.shields.io/github/issues/SophieBarriault/Dispenser)](https://github.com/SophieBarriault/Dispenser/issues)
-[![License](https://img.shields.io/github/license/SophieBarriault/Dispenser.svg)](https://github.com/SophieBarriault/Dispenser/blob/main/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/SophieBarriault/Electric-Eel-Inspired-Battery-For-Implantable-Medical-Devices)](https://github.com/SophieBarriault/Electric-Eel-Inspired-Battery-For-Implantable-Medical-Devices/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/SophieBarriault/Electric-Eel-Inspired-Battery-For-Implantable-Medical-Devices)](https://github.com/SophieBarriault/Electric-Eel-Inspired-Battery-For-Implantable-Medical-Devices)
+[![Forks](https://img.shields.io/github/forks/SophieBarriault/Electric-Eel-Inspired-Battery-For-Implantable-Medical-Devices)](https://github.com/SophieBarriault/Electric-Eel-Inspired-Battery-For-Implantable-Medical-Devices/network/members)
+[![Stars](https://img.shields.io/github/stars/SophieBarriault/Electric-Eel-Inspired-Battery-For-Implantable-Medical-Devices)](https://github.com/SophieBarriault/Electric-Eel-Inspired-Battery-For-Implantable-Medical-Devices/stargazers)
+[![Issues](https://img.shields.io/github/issues/SophieBarriault/Electric-Eel-Inspired-Battery-For-Implantable-Medical-Devices)](https://github.com/SophieBarriault/Electric-Eel-Inspired-Battery-For-Implantable-Medical-Devices/issues)
+[![License](https://img.shields.io/github/license/SophieBarriault/Electric-Eel-Inspired-Battery-For-Implantable-Medical-Devices.svg)](https://github.com/SophieBarriault/Electric-Eel-Inspired-Battery-For-Implantable-Medical-Devices/blob/main/LICENSE)
 
 [View Demo](https://drive.google.com/file/d/1wByr87FT2HsipwZgwH-gzBg_70QS4TUb/view?usp=sharing) ·
 [Documentation](https://github.com/SophieBarriault/Dispenser/blob/main/README.MD)  ·
