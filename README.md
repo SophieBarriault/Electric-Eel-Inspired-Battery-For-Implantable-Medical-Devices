@@ -71,7 +71,7 @@ All the resources I used for this project can be found in the following Google D
 ### 📷 Example of Results 
 
 
-[Resullts from one trial stack](Photo_Gallery/Trial.png) 
+![Resullts from one trial stack](Photo_Gallery/Trial.png) 
 
 ### 📷 Photo Gallery 
 
