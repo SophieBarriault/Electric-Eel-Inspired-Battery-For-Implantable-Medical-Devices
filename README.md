@@ -44,9 +44,7 @@ All the resources I used for this project can be found in the following Google D
 
 - [Abstract](#-Abstract)
   - [Demo Video](#-screenshots)
-  - [Tech Stack](#-tech-stack)
-  - [Features](#-features)
-  - [Color Reference](#-color-reference) 
+  - [Materials Used](#-Materials-Used) 
 - [Introduction](#-Introduction)
   - [Current Work](#-Current-Work) 
   - [Solution](#-Solution)
@@ -67,40 +65,6 @@ All the resources I used for this project can be found in the following Google D
 
 
 
-**Goal:**
-
-To create an accessible, intelligent system that ensures patients take the correct medications at the correct times — reducing errors, improving adherence, and offering peace of mind for caregivers and family members. 
-
-
-
-**Core Features:**
-
- - Image recognition model to verify whether medication has been taken correctly.
-
- - OCR + NLP (Named Entity Recognition) to extract dosage instructions from prescription labels.
-
- - Arduino-controlled dispensing system triggered by AI verification and scheduled reminders.
-
- - Mobile + Desktop interface (via Toga framework) for caregiver monitoring and remote updates.
-
- - Video evidence recording for accountability and patient monitoring. 
-
-
-
-**Recognition:**  
-
- - Filed for a provisional patent for the design and idea December 2024 
-
- - Selected for the Massachusetts Science & Engineering Fair (MSEF) Regional Round
-
- - Advanced to the MSEF State Level Competition as a Finalist
-
- - Praised for its real-world impact, interdisciplinary approach, and scalable potential
-
-
-
----
-
 ### 📷 Demo Video 
 
 Click to watch the demo here! 
@@ -110,7 +74,7 @@ Click to watch the demo here!
 
 ---
 
-### 👾 Tech Stack
+### 👾 Materials Used 
 
 - **Python** – Core programming language for the application
 
@@ -179,10 +143,6 @@ Tens of millions of people in the world rely on implantable medical devices in t
 
 The only work about electric eel-inspired batteries specifically was published in 2017 by researchers at the University of California, San Diego in a paper titled An electric-eel-inspired soft power source from stacked hydrogels. My approach in this paper is based on the approach from the paper from 2017, however concentrations and materials used are altered in order to best fit my project’s goals, as the paper from 2017’s goal was just to be able to test whether or not the hydrogel stacks could generate electricity. While the original paper’s approach was successful in generating some voltage, the researchers were only able to generate around 1 to 2 volts of electricity, which is not enough for what my project aims to do, which is power implantable medical devices. Currently, the other alternatives that exist to this issue are energy storage devices, such as rechargeable lithium batteries, human body energy harvesters, through kinetic energy harvesting, and wireless power transfer, through things such as radiofrequency radiation. However, all of these current solutions are either invasive, which can be dangerous to patients, contain harmful materials that are not biocompatible with the human body, or do not generate enough electricity and do not have high longevity. 
 
-```bash
- cd Dispenser 
- pip install -r requirements.txt 
-```
 <!-- Run Locally -->
 ### :running: Solution 
 
