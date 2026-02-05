@@ -71,8 +71,18 @@ All the resources I used for this project can be found in the following Google D
 ### 📷 Example of Results 
 
 
-[![Resullts from one trial stack](Photo_Gallery/Trial.png)] 
+[Resullts from one trial stack](Photo_Gallery/Trial.png) 
 
+### 📷 Photo Gallery 
+
+[Image_1](Photo_Gallery/20260117_110433.jpg)
+[Image_2](Photo_Gallery/20260117_112325.jpg)
+[Image_3](Photo_Gallery/20260117_183419.jpg)
+[Image_4](Photo_Gallery/20260117_183426.jpg) 
+[Image_5](Photo_Gallery/20260117_183431.jpg) 
+[Image_6](Photo_Gallery/20260117_183441.jpg) 
+[Image_7](Photo_Gallery/20260117_185028.jpg) 
+[Image_8](Photo_Gallery/20260119_154339.jpg) 	
 
 --- 
 
