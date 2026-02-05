@@ -9,7 +9,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
 
 
-![Logo](assets/Hardware_Image_1.png)
+![Logo](Photo_Gallery/Screenshot (516).png)
 
 # Electric Eel-Inspired Battery For Implantable Medical Devices 
 
@@ -71,7 +71,7 @@ All the resources I used for this project can be found in the following Google D
 ### 📷 Example of Results 
 
 
-[![Resullts from one trial stack](assets/to_demo.png)] 
+[![Resullts from one trial stack](Photo_Gallery/Screenshot (516).png)] 
 
 
 --- 
