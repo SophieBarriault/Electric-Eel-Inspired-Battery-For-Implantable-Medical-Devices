@@ -13,11 +13,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 # Electric Eel-Inspired Battery For Implantable Medical Devices 
 
-This project is an AI-powered automatic medication dispenser designed to improve medication adherence using a combination of image recognition, OCR, and natural language processing. The system is built for patients, caregivers, and healthcare providers to ensure safe and timely medication intake — all while being monitored remotely through a mobile app.
-
-It integrates hardware control (Arduino), YOLO-based pill recognition, and a custom-trained spaCy NLP model to extract dosage and frequency instructions from prescription labels. A PyQt6 desktop interface manages the system on-device, and a mobile app enables remote supervision. 
-
-All the resources I used for this project can be found in the following Google Drive, linked for your reference: https://drive.google.com/drive/folders/1BSqckdxfqDh0ZibXCd9fYPzXVN9h-TSW 
+See the full research paper here: https://drive.google.com/file/d/1K3PyIRgAAeNM2iW3VLDCyKcUZHfmVy4p/view?usp=sharing 
 
 
 **This project is not currently licensed for use or redistribution. All rights reserved.**
