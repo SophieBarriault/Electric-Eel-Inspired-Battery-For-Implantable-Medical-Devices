@@ -221,6 +221,36 @@ There are also a few future improvements I’d like to work on as well:
 		These results demonstrate the viability of deploying a battery that’s able to generate and output its own voltage without the need for an external electricity source, showing how it can be used to help solve the issues of replacing and recharging the batteries in implantable medical devices. In conclusion, by addressing common faults in current solutions, such as the need for surgeries and leaving patients vulnerable for long times through recharging periods, this solution has the potential to prevent future side effects, enhance patient health, and introduce a biocompatible solution for this issue. 
 
 
+	<!-- FAQ -->
+## :grey_question: References  
+
+References 
+Battery Components | Batteries | CAPLINQ. (2023). Caplinq. 
+https://www.caplinq.com/renewable-energy/batteries/battery-components/ 
+Blogionik. (2017, September 27). Blogionik. 
+https://blogionik.org/blog/2017/09/27/biomimetic-potential-electric-eels/ Ahmed, E. M. 
+(2013). 
+Challenges of Batteries for Implantable Medical Devices: Miniaturization and Biocompatibility. 
+(2025, September 3). Large-Battery.com. 
+https://www.large-battery.com/blog/batteries-for-implantable-medical-devices-miniaturiz
+ation-biocompat/ 
+Electric eels inspired the first battery two centuries ago and now point a way to future battery 
+technologies. https://doi.org/10.64628/aai.f7qrfpgac 
+Hydrogel: Preparation, characterization, and applications: A review. Journal of Advanced 
+Research, 6(2), 105–121. https://doi.org/10.1016/j.jare.2013.07.006 Jorgensen, T. (2022). 
+Safety for Research | Environmental Health & Safety (EHS). (2024). Virginia.edu. 
+https://ehs.virginia.edu/Electrical-Safety/Research Biomimetic potential of electric eels - 
+Schroeder, T. B. H., Guha, A., Lamoureux, A., VanRenterghem, G., Sept, D., Shtein, M., Yang, 
+J., & Mayer, M. (2017). An electric-eel-inspired soft power source from stacked 
+hydrogels. Nature, 552(7684), 214–218. https://doi.org/10.1038/nature24670 Electrical 
+Singh, P., Singh, G., & Kaur, G. (2021). Integrating Artificial Intelligence/Internet of Things 
+Technologies to Support Medical Devices and Systems. Elsevier EBooks, 331–349.
+https://doi.org/10.1016/b978-0-12-818576-6.00017-4 
+Szymańska, E., & Winnicka, K. (2015). Stability of Chitosan—A Challenge for Pharmaceutical and Biomedical Applications. Marine Drugs, 13(4), 1819–1846. https://doi.org/10.3390/md13041819
+‌
+
+
+
 
  
 <!-- Contact -->
