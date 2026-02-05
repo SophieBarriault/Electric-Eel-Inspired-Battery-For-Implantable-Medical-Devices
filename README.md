@@ -43,8 +43,7 @@ All the resources I used for this project can be found in the following Google D
 # 📔 Table of Contents
 
 - [Abstract](#-Abstract)
-  - [Demo Video](#-screenshots)
-  - [Materials Used](#-Materials-Used) 
+  - [Demo Video](#-screenshots) 
 - [Introduction](#-Introduction)
   - [Current Work](#-Current-Work) 
   - [Solution](#-Solution)
@@ -65,69 +64,13 @@ All the resources I used for this project can be found in the following Google D
 
 
 
-### 📷 Demo Video 
-
-Click to watch the demo here! 
-
-[![Watch the Demo Video](assets/to_demo.png)](https://drive.google.com/file/d/1wByr87FT2HsipwZgwH-gzBg_70QS4TUb/view?usp=sharing) 
+### 📷 Example of Results 
 
 
----
+[![Resullts from one trial stack](assets/to_demo.png)] 
 
-### 👾 Materials Used 
 
-- **Python** – Core programming language for the application
-
-- **Toga** – GUI framework for building cross-platform desktop and mobile apps 
-- **Buildozer** - GUI framework for both Android and IOS compatibility 
-
-- **OpenCV** – Real-time image processing and integration with camera for pill verification
-
-- **Tesseract OCR** – Optical Character Recognition for extracting text from prescriptions
-
-- **spaCy** – Custom Named Entity Recognition (NER) model to extract dosage/frequency info
-
-- **YOLOv8** – Object detection model to monitor pill intake and hand movement
-
-- **Flask** – Lightweight server to handle requests between the app and ML models
-
-- **PySerial** – Communication between the Python app and the Arduino board
-
-- **Arduino** – Controls pill dispensing mechanism (via servo motors, etc.)
-
-- **Git & GitHub** – Version control and project collaboration
-
----
-
-### 🎯 Features
-
-- **Automated Pill Dispensing** 
-  Dispenses the correct medication at the right time using an Arduino-controlled mechanism, reducing the risk of missed or incorrect doses.
-
-- **Real-Time Pill Intake Monitoring** 
-  Utilizes a YOLOv5-based image recognition system to track the sequence: pill present → pill taken → hand empty — confirming successful medication intake.
-
-- **Custom OCR Processing** 
-  Uses Tesseract OCR to extract medication names, dosages, and instructions from images of prescriptions or labels.
-
-- **Medical NER Model** 
-  A custom-trained spaCy Named Entity Recognition (NER) model processes OCR output to identify key medical information like dosage frequency and medication schedules.
-
-- **Cross-Platform Interface (Toga + Buildozer)** 
-  Built using the Toga framework for both desktop and mobile (Android and IOS) platforms, allowing caregivers and users to interact with the system easily.
-
-- **Flask-Based Communication** 
-  A lightweight Flask server connects the app to backend ML models, ensuring fast and reliable processing of user input and image recognition results.
-
-- **Emergency Alert System** 
-  If a user fails to take their medication within a set time frame, the system plays an audio alert and notifies a connected caregiver.
-
-- **Time-Based Triggers** 
-  The application runs on a schedule, automatically activating the camera and dispenser based on predefined medication times.
-
-- **PDF Report Generation** 
-  Extracted text from prescriptions is automatically saved and compiled into a downloadable PDF for easy recordkeeping and sharing with healthcare providers.
-
+--- 
 
 --- 
 
@@ -224,28 +167,36 @@ There are also a few future improvements I’d like to work on as well:
 	<!-- FAQ -->
 ## :grey_question: References  
 
-References 
+**References**
 Battery Components | Batteries | CAPLINQ. (2023). Caplinq. 
 https://www.caplinq.com/renewable-energy/batteries/battery-components/ 
+
 Blogionik. (2017, September 27). Blogionik. 
 https://blogionik.org/blog/2017/09/27/biomimetic-potential-electric-eels/ Ahmed, E. M. 
 (2013). 
+
 Challenges of Batteries for Implantable Medical Devices: Miniaturization and Biocompatibility. 
 (2025, September 3). Large-Battery.com. 
 https://www.large-battery.com/blog/batteries-for-implantable-medical-devices-miniaturiz
 ation-biocompat/ 
+
 Electric eels inspired the first battery two centuries ago and now point a way to future battery 
 technologies. https://doi.org/10.64628/aai.f7qrfpgac 
+
 Hydrogel: Preparation, characterization, and applications: A review. Journal of Advanced 
 Research, 6(2), 105–121. https://doi.org/10.1016/j.jare.2013.07.006 Jorgensen, T. (2022). 
+
 Safety for Research | Environmental Health & Safety (EHS). (2024). Virginia.edu. 
 https://ehs.virginia.edu/Electrical-Safety/Research Biomimetic potential of electric eels - 
+
 Schroeder, T. B. H., Guha, A., Lamoureux, A., VanRenterghem, G., Sept, D., Shtein, M., Yang, 
 J., & Mayer, M. (2017). An electric-eel-inspired soft power source from stacked 
 hydrogels. Nature, 552(7684), 214–218. https://doi.org/10.1038/nature24670 Electrical 
+
 Singh, P., Singh, G., & Kaur, G. (2021). Integrating Artificial Intelligence/Internet of Things 
 Technologies to Support Medical Devices and Systems. Elsevier EBooks, 331–349.
 https://doi.org/10.1016/b978-0-12-818576-6.00017-4 
+
 Szymańska, E., & Winnicka, K. (2015). Stability of Chitosan—A Challenge for Pharmaceutical and Biomedical Applications. Marine Drugs, 13(4), 1819–1846. https://doi.org/10.3390/md13041819
 ‌
 
