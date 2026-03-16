@@ -13,7 +13,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 # Electric Eel-Inspired Battery For Implantable Medical Devices 
 
-See the full research paper here: https://drive.google.com/file/d/1K3PyIRgAAeNM2iW3VLDCyKcUZHfmVy4p/view?usp=sharing 
+See the full current research paper here: https://drive.google.com/file/d/1ZtuVaNUgSnK68XedtYxZRs3Ux4qDI5ie/view?usp=sharing 
 
 
 **This project is not currently licensed for use or redistribution. All rights reserved.**
